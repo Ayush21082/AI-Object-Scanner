@@ -1,3 +1,3 @@
 # AI-Object-Scanner
 A Scanner based on Artificial intelligence which identify the object immediately with a probability
-![](AI Object Scanner Demo.mp4)
+![](AI-Object-Scanner-Demo.mp4)
