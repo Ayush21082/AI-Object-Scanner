@@ -10,11 +10,7 @@
 `Swift` `Core ML` `ARKit`
 
 ## Project Video
-[![IMAGE ALT TEXT HERE](https://i.pinimg.com/564x/e7/95/9f/e7959fca05b2e40cfcd5e0de9dede6b8.jpg)](https://youtu.be/HUsIX_9uMKU)
-
-<b>Check the demo Project given below in link</b>
-<br>
-https://twitter.com/Ayush21082/status/1171797841217409025?s=20
+<img src="https://github.com/Ayush21082/AI-Object-Scanner/blob/master/Assets/demo.gif" width="300" height="400">
 
  ## How to Contribute 🖋 ##
  * Run the app - Steps are mentioned above.
