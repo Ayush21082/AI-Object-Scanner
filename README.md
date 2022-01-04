@@ -1,5 +1,13 @@
 # AI Object Scanner
+<img src="https://github.com/Ayush21082/AI-Object-Scanner/blob/master/Assets/thumbnail.jpg" width="150">
 <b>Scan Real World Objects with an iOS App using ARKit and CoreML</b>
+ <p>
+<img alt="iOS" src="https://img.shields.io/badge/platform-iOS-blue">
+ <img alt="Swift" src="https://img.shields.io/badge/Swift-5.0-brightgreen">
+<img alt="XCode" src="https://img.shields.io/badge/XCode-11.5-blueviolet">
+<img alt="iOS" src="https://img.shields.io/badge/iOS-13-orange">
+</p>
+ 
 
 ## How to Use
 * Tap on `Run my code` button. 
@@ -9,7 +17,7 @@
 ## Technologies I used
 `Swift` `Core ML` `ARKit`
 
-## Project Video
+## Demo
 <img src="https://github.com/Ayush21082/AI-Object-Scanner/blob/master/Assets/demo.gif" width="300" height="400">
 
  ## How to Contribute 🖋 ##
